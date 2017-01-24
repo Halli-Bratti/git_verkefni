@@ -18,3 +18,6 @@ Git spurningar og svör
 	a) git diff	synir breytingar á skjali
 	b) git diff –staged	Bretyir bara skjali í „staged“ svæði
 	c) git diff commit1 commit2	sýnir mismunin á 2 akveðnum commit
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+	Það synir allar utgafur af forritunu 
