@@ -32,3 +32,6 @@ Git spurningar og svör
 		Working directory er koðin á netinu
 		Staging area er ser file sem þu getur breytt eftir á 
 		Repository til að staðfesta koða 
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+	Það er basicly önnur lina eða annað version af forrtiunu
