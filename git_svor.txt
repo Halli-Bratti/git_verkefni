@@ -21,3 +21,6 @@ Git spurningar og svör
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 	Það synir allar utgafur af forritunu 
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+	Það er fljott að vinna með git, það er hægt að vinna ótengdur neti með git, auðveldara að velja útgafu með git
