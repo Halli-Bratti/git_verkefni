@@ -6,3 +6,10 @@ Git spurningar og svör
 	ls		listi af upplysingum
 	pwd		Breytir um drif
 	mkdir		Býr til skrá
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone	copyar geymslu sem er nu þegar til
+	git log		Synir það sem þu hefur gert/sláð inn
+	git status	synir hvar það er og hvort það virkar
+	git diff	synir breytingar á skjalinu
+	git checkout	upfærir skjalið þitt
