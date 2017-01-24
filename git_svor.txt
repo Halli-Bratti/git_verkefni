@@ -1,1 +1,8 @@
 Git spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	Cd		breyta skrá
+	cd ~		Fer beint til baka (home directory)
+	ls		listi af upplysingum
+	pwd		Breytir um drif
+	mkdir		Býr til skrá
