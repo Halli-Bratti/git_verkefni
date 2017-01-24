@@ -13,3 +13,8 @@ Git spurningar og svör
 	git status	synir hvar það er og hvort það virkar
 	git diff	synir breytingar á skjalinu
 	git checkout	upfærir skjalið þitt
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff	synir breytingar á skjali
+	b) git diff –staged	Bretyir bara skjali í „staged“ svæði
+	c) git diff commit1 commit2	sýnir mismunin á 2 akveðnum commit
