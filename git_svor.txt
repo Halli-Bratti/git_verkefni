@@ -24,3 +24,6 @@ Git spurningar og svör
 
 5.	Hverjir eru helstu kostir við að nota GIT?
 	Það er fljott að vinna með git, það er hægt að vinna ótengdur neti með git, auðveldara að velja útgafu með git
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	Þegar maður lagfærir stafsetngar villu eða þegar maður er buinn að breyta koða of ert buinn að fá hann til að virka
